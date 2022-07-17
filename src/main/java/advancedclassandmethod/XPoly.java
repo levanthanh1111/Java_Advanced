@@ -50,5 +50,6 @@ final public class XPoly {
         System.out.println(s2);
         String s = "le van thanh";
         toUpperFirstChar(s);
+        System.out.println("hoc git");
     }
 }
