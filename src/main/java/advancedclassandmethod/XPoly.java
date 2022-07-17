@@ -52,5 +52,6 @@ final public class XPoly {
         toUpperFirstChar(s);
         System.out.println("hoc git");
         System.out.println("hoc pull");
+        System.out.println("branch");
     }
 }
